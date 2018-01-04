@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Core", "SampleApp.Core\SampleApp.Core.csproj", "{4399B81A-362F-423D-AD76-68A3652DB9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Console", "SampleApp.Console\SampleApp.Console.csproj", "{3AA4C898-6C39-47A1-BA23-7FEC931E8CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4399B81A-362F-423D-AD76-68A3652DB9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4399B81A-362F-423D-AD76-68A3652DB9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4399B81A-362F-423D-AD76-68A3652DB9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4399B81A-362F-423D-AD76-68A3652DB9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA4C898-6C39-47A1-BA23-7FEC931E8CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA4C898-6C39-47A1-BA23-7FEC931E8CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA4C898-6C39-47A1-BA23-7FEC931E8CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA4C898-6C39-47A1-BA23-7FEC931E8CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

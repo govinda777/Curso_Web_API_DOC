@@ -1,0 +1,9 @@
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\bin\Debug\SampleApp.Core.dll
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\bin\Debug\SampleApp.Core.pdb
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\bin\Debug\Castle.Core.dll
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\bin\Debug\Castle.Windsor.dll
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\bin\Debug\Castle.Core.xml
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\bin\Debug\Castle.Windsor.xml
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\obj\Debug\SampleApp.Core.csprojResolveAssemblyReference.cache
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\obj\Debug\SampleApp.Core.dll
+C:\Users\lua.souza\Downloads\Source (2)\Source\SampleApp.Core\obj\Debug\SampleApp.Core.pdb
