@@ -10,3 +10,4 @@ class DebitoContaCorrente extends DebitoConta {
     }
 
 }
+export {DebitoContaCorrente}
