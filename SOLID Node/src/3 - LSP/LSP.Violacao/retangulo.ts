@@ -1,3 +1,5 @@
+
+//Paralelo gramo
 class Retangulo {
 
     protected altura: number;
@@ -16,7 +18,7 @@ class Retangulo {
         this.largura = largura;
     }
 
-    public Area() : number {
+    public area() : number {
         return this.altura * this.largura;
     }
 }

@@ -19,7 +19,7 @@ class CaixaEletronico {
             {
                 case '1':
                     console.log("Efetuando operação em Conta Corrente");
-                    retorno = debitoConta.debitarContaCorrente()
+                    retorno = debitoConta.debitarContaCorrente();
                     break;
                 case '2':
                     console.log("Efetuando operação em Conta Poupança");

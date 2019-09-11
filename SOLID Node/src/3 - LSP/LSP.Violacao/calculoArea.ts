@@ -9,7 +9,7 @@ class CalculoArea {
             console.log();
             console.log(ret.getAltura() + " * " + ret.getLargura());
             console.log();
-            console.log(ret.Area);
+            console.log(ret.area());
         }
 
         public Calcular()
