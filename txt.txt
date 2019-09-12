@@ -1,0 +1,34 @@
+SOLID é um acrônimo dos cinco primeiros
+princípios da programação orientada a objetos e design de código identificados por Robert C. Martin (ou Uncle Bob) por volta do ano 2000
+
+2
+
+Os princípios SOLID devem ser aplicados para se obter os benefícios da orientação a objeto, tais como:
+
+Seja fácil de se manter, adaptar e se ajustar ás alterações de escopo;
+
+Seja testável e de fácil entendimento;
+
+Seja extensível para alterações com o menor esforço necessário;
+
+Que forneça o máximo de reaproveitamento;
+
+Que permaneça o máximo de tempo possível em utilização
+
+3 
+
+Utilizando os princípios do SOLID é possível evitar problemas muito comuns :
+
+Dificuldade na estabilidade / criação de testes de unidade;
+
+Código macarrônico, sem estrutura ou padrão;
+
+Dificuldade de isolar funcionalidades;
+
+Duplicação de código, uma alteração precisa ser feita em N pontos;
+
+Fragilidade, o código quebra facilmente em vários pontos após alguma mudança.
+
+Demo LSP
+
+Paraleogramos temos quadrado e retângulo , o quadrado é um tipo especial de retângulo pois os seus lados tem que obrigatoriamente serem iguais.
